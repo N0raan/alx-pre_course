@@ -1,1 +1,1 @@
-my first readme
+this for git tasks
